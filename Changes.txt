@@ -1,0 +1,21 @@
+//Current ways out off island
+Portal
+- Clan Wars
+- Edgeville
+- Recipe for Disaster
+
+Death
+- Create clan
+- Teleport to Clan Citadel
+
+Docks
+- Training Teleports
+- Monster Teleports
+- Skilling Teleports
+- Quests and Minigames Teleports
+
+
+//Current obvious changes
+- Leveling is too fast
+- NPCs near home do not drop or hit
+
