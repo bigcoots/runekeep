@@ -1,0 +1,11 @@
+Server Command List
+::tele #### ####
+Teleports to a set of coordinates
+::unban @
+Unbans a specified user
+::killwithin
+Kills all players and NPCs? - test
+::refill
+Refills all shops with goods
+::getpest
+Gives user 100 of each kill required (KBD, Nex, etc.)
