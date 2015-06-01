@@ -1,0 +1,13 @@
+//Connect to the SSH Shell for the server and execute the following commands
+//Stopping the server
+killall java
+
+//Running the server
+cd Runekeep
+screen -A -m -d -S runekeep java -Xmx815m -classpath bin:lib/*: com.rs.Launcher true true false
+
+//Checking free memory
+free -m
+
+//A good way to see if the server is running is to check the free memory before and after running a command
+//This will usually be 59mb before the server is running and 200mb while the server is running.
