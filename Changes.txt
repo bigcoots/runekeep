@@ -17,5 +17,5 @@ Docks
 
 //Current obvious changes
 - Leveling is too fast
-- NPCs near home do not drop or hit
+- The tangle NPC does not drop / hit; would be easy leveling
 
