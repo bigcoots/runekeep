@@ -1,0 +1,14 @@
+This is a list of things that we need to fix before release - I assume the majority of these fixes are simple, one line edits:
+
+EASY
+* NPC dialogue - The teleport NPCs say "Validus" and we need to change it to "Runekeep"
+* Going through the NPC dialogue with the makeover mage will always end in you asking to purchase his amulet, even if you choose to get a makeover (this was odd). You can simple right click to get the makeover though too.
+* If you speak with the Armour Repair NPC in one of the buildings and ask him to repair your Nex armour and you don't have any, he says "Nigga you dont got any!" I found this pretty funny, but it will definitely give off an unprofessional look to users, haha.
+* The current location box - Do we really need it? Do you think it's useful?
+* XP RATES NEED TO BE LOWERED SO MUCH - I got 69 strength after killing one NPC, haha. I'm not saying we'll make XP rates impossible, but damn, that was crazy, I was basically getting 200k XP per hit.
+
+
+BIGGER / HARDER
+* If we're going to have a pretty well balanced economy based server, I think we really need to edit the shops. Right now there's so many things in the shops that would be a lot better I think if they were dropped from NPCs. It would not only promote training, but it would make them more valuable and more likely to be traded / sold from player to player.
+* The island is actually quite big if you run behind where the home shops are and explore further. We could definitely add a lot more to utilize the whole island.
+* I attempted to kill one of the NPCs at home and died, but I didn't lose anything - Should we keep it this way?
